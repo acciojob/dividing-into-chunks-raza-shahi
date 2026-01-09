@@ -12,7 +12,7 @@ const divide = (arr, n) => {
 		acc.sum = val;
 	}
 		return acc;
-	},{result:[],current:[],sum:0;});
+	},{result:[],current:[],sum:0});
 	if (current.length>0) {
 		result.push(current);
 	}
